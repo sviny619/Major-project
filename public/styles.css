@@ -67,3 +67,11 @@ th {
       font-size: 14px;
   }
 }
+/* Center the content of the body vertically and horizontally */
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* ... (other styles) */
+}
+
